@@ -7,6 +7,7 @@ version <next>:
 - ADPCM IMA Acorn Replay decoder
 - Argonaut Games CVG demuxer
 - Argonaut Games CVG muxer
+- V4L2 mem2mem stateless H.264 hwaccel
 
 
 version 4.4:
